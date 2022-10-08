@@ -1,7 +1,6 @@
 <head>
- </head>
- <body bgcolor="#000" background=<img src="YLR9Ir8l9IM.jpg" width="420" height="420">>
- </body>
+<body bgcolor="#000" background=<img src="YLR9Ir8l9IM.jpg" width="420" height="420">>
+</body>
 <p><h1>ООО ЧО "ЧЛЕНО-ОБРАБАТЫВАТЕЛИ"
 <p><h1>Услуги:</h1></p>
 <p><img src="photo_2022-09-10_13-25-15.jpg" width="420" height="420">
