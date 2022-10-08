@@ -1,8 +1,6 @@
 # svasilev773.github.io
 
+![photo_2022-09-10_13-25-15](https://user-images.githubusercontent.com/115039741/194724126-0317f2a8-1246-44e0-ac4c-6a1517d934d2.jpg)
 
+<img src="images/thumb1.jpg" alt="[photo_2022-09-10_13-25-15](https://user-images.githubusercontent.com/115039741/194724126-0317f2a8-1246-44e0-ac4c-6a1517d934d2.jpg)" width="120" height="120">
 
-
-
-Возраст:
-!(https://user-images.githubusercontent.com/115039741/194723953-03e5fd72-54aa-491b-a67b-caeb05072923.jpg)!(https://user-images.githubusercontent.com/115039741/194723956-fe183df1-4ca1-49e1-a307-7d967d469d4e.jpg)
