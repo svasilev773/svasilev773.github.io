@@ -1,5 +1,7 @@
 <html>
-text-decoration: none
+{
+  text-decoration: none
+}
  <p><h1>SexVolg.mobi</h1></p>
  <body bgcolor="#000" background="YLR9Ir8l9IM.jpg">
  </body>
