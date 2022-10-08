@@ -2,7 +2,8 @@
 <html>
  <head>
   <meta charset="utf-8">
-  <title>Фотографии</title>
+  <title>![photo_2022-09-10_13-25-15](https://user-images.githubusercontent.com/115039741/194724584-5cc666e7-1abc-4817-bae2-4d6f455b494d.jpg)
+</title>
  </head>
  <body>
   <p>
